@@ -1,0 +1,8 @@
+lenguage: java
+jdk:
+  - openjdk11
+
+script: ./mvn clean install
+
+notifications:
+  email: sierramarcos146@gmail.com
